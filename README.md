@@ -7,7 +7,6 @@
 
 ### 📈 GitHub Stats
 
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shaktimansingh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaktimansingh&locale=en&hide_title=false&layout=compact&card_width=335&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
@@ -54,38 +53,6 @@
 
 ---
 
-### 🔭 I’m currently working on  
-Building a scalable Test portal with Laravel, JWT, and role-based access  
-🔗 [coming soon...](https://test.app/)
-
-### 👯 I’m looking to collaborate on  
-🔥 Real-time WebSocket-based chat and notification system for job applications  
-📍 [Coming soon on GitHub](https://github.com/shaktimansingh)
-
-### 🤝 I’m looking for help with  
-🧠 AI-powered job-matching engine using OpenAI and Laravel  
-🚀 [Coming soon on GitHub](https://github.com/shaktimansingh)
-
-### 🌱 I’m currently learning  
-- WebSockets in Laravel & Node.js  
-- Tailwind CSS for rapid UI dev  
-- Advanced Mulesoft API integrations
-
-### 💬 Ask me about  
-React, Vue, GSAP, Laravel, API Integrations, Redis, OpenAI
-
-### 📫 How to reach me  
-📧 shaktiman.singh.dev@gmail.com  
-📱 [LinkedIn](https://www.linkedin.com/in/shaktimansingh)
-
-### 👨‍💻 All of my projects are available at  
-🌐 [https://your-portfolio-link.com](https://your-portfolio-link.com)
-
-### ⚡ Fun fact  
-I think I am funny 😄 but my code is serious 🔥
-
----
-
 ### ✨ Featured Projects
 
 - 🔧 **Test Portal with Laravel & JWT** — Role-based access, test/test1 toggle, scalable APIs.
@@ -113,11 +80,16 @@ I think I am funny 😄 but my code is serious 🔥
   </a>
 </div>
 
+---
+
+### ⚡ Fun fact  
+I think I am funny 😄 but my code is serious 🔥
+
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/shaktimansingh/shaktimansingh/output/snake.svg" alt="Snake animation" />
 
 ###
 
