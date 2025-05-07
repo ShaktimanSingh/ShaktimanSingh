@@ -3,9 +3,19 @@
 
 👋 Exploring new ideas and building innovative solutions. Always up for a challenge!</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
+---
+
+### 📈 GitHub Stats
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaktimansingh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaktimansingh&locale=en&hide_title=false&layout=compact&card_width=335&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaktimansingh&theme=radical" width="360" height="150" alt="streak" />
+</div>
 
 ---
 
@@ -41,16 +51,6 @@
 <a href="https://platform.openai.com/docs" target="_blank">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Badge"/>
 </a>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaktimansingh&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaktimansingh&theme=radical" alt="streak"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShaktimanSingh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph"/>
-</p>
 
 ---
 
@@ -113,6 +113,13 @@ I think I am funny 😄 but my code is serious 🔥
   </a>
 </div>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 ---
 
