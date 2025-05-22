@@ -21,7 +21,6 @@ Exploring new ideas and building innovative solutions. Always up for a challenge
 <div align="center">
 
 ## 💻 Tech Stack ⚡
-### 🧑‍🎨 Frontend Development
 
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)]()
@@ -31,20 +30,14 @@ Exploring new ideas and building innovative solutions. Always up for a challenge
 [![FlutterFlow](https://img.shields.io/badge/FlutterFlow-1E1E1E?style=for-the-badge\&logo=flutter\&logoColor=white)]()
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)]()
 
-### 🧠 Backend Development
-
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)]()
 [![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge\&logo=laravel\&logoColor=white)]()
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)]()
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)]()
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)]()
 
-### 🗄️ Databases
-
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)]()
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)]()
-
-### 📡 API / Integration / Middleware
 
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)]()
 [![MuleSoft](https://img.shields.io/badge/MuleSoft-0078D7?style=for-the-badge\&logo=mulesoft\&logoColor=white)]()
@@ -53,15 +46,8 @@ Exploring new ideas and building innovative solutions. Always up for a challenge
 [![XML](https://img.shields.io/badge/XML-000000?style=for-the-badge\&logo=xml\&logoColor=white)]()
 [![CloudHub](https://img.shields.io/badge/CloudHub-0097D8?style=for-the-badge\&logo=cloudhub\&logoColor=white)]()
 
-### ☁️ Cloud & DevOps
-
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)]()
-
-### 🤖 AI & APIs
-
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)]()
-
-### 🛠️ Tools & Version Control
 
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)]()
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)]()
